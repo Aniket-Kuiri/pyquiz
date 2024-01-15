@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pyquiz/static/css/main.0faf75bf.css",
+    "main.js": "/pyquiz/static/js/main.af239626.js",
+    "static/js/787.d4aba7ab.chunk.js": "/pyquiz/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/pyquiz/index.html",
+    "main.0faf75bf.css.map": "/pyquiz/static/css/main.0faf75bf.css.map",
+    "main.af239626.js.map": "/pyquiz/static/js/main.af239626.js.map",
+    "787.d4aba7ab.chunk.js.map": "/pyquiz/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0faf75bf.css",
+    "static/js/main.af239626.js"
+  ]
+}
